@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeal Shah</h1>
-<h3 align="center">🎓 Soon to be graduate with Bachelor's of Computer Engineering, 2024 from L. D. College of Engineering. With a strong grasping power, I am passionate about learning new tech things. My objective is to utilize my skills and experience in a challenging position in an organization where I can make a significant contribution.</h3>
+<h3 align="left">🎓 Soon to be graduate with Bachelor's of Computer Engineering, 2024 from L. D. College of Engineering. With a strong grasping power, I am passionate about learning new tech things. My objective is to utilize my skills and experience in a challenging position in an organization where I can make a significant contribution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzealc&label=Profile%20views&color=0e75b6&style=flat" alt="shahzealc" /> </p>
 
